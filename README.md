@@ -26,5 +26,5 @@ NekopoiScrapper.getInfo("https://nekopoi.care/sexfriend-gakuen-episode-1-subtitl
 
 ## Credit
 
-Moe Poi ~ / [@moepoi](https://github.com/moepoi)
+Moe Poi ~ / [Arya Zakaria](https://github.com/aryazakaria01)
 
