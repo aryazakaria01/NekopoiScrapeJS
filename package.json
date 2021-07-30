@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aryazakaria01/NekopoiScrapeJS.git"
+    "url": "https://github.com/moepoi/NekopoiScrapper.git"
   },
   "author": {
-    "name": "aryazakaria01",
-    "email": "ardianrazak7107@gmail.com"
+    "name": "moepoi",
+    "email": "moepoi@protonmail.com"
   },
   "license": "MIT",
   "dependencies": {
