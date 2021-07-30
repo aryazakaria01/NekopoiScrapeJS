@@ -1,18 +1,18 @@
 {
-  "name": "NekopoiScrapper",
+  "name": "NekopoiScrapperJS",
   "version": "1.0.0",
-  "description": "Scrapper for nekopoi",
+  "description": "Scrapper for nekopoi Using Java Script",
   "main": "./NekopoiScrapper/index.js",
   "scripts": {
     "start": "node ./example.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moepoi/NekopoiScrapper.git"
+    "url": "https://github.com/aryazakaria01/NekopoiScrapperJS.git"
   },
   "author": {
-    "name": "moepoi",
-    "email": "moepoi@protonmail.com"
+    "name": "aryzakaria01",
+    "email": "ardianrazak7107@gmail.com.com"
   },
   "license": "MIT",
   "dependencies": {
