@@ -1,0 +1,12 @@
+image: node:latest
+stages: [ run ]
+
+cache:
+  paths:
+    - node_modules/
+
+test:
+  stage: run
+  script:
+    - npm install
+    - node example.js
