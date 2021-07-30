@@ -1,0 +1,2 @@
+# NekopoiScrapeJS
+Scrapper for nekopoi
