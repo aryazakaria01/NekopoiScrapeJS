@@ -28,3 +28,4 @@ NekopoiScrapper.getInfo("https://nekopoi.care/sexfriend-gakuen-episode-1-subtitl
 
 Arya Zakaria ~ / [Arya Zakaria](https://github.com/aryazakaria01)
 
+## [OWNER Arya](http://t.me/Badboyanim)
