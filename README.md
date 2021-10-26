@@ -4,6 +4,8 @@
 
 [![pipeline status](https://gitlab.com/moepoi/NekopoiScrapper/badges/master/pipeline.svg)](https://gitlab.com/moepoi/NekopoiScrapper/-/commits/master)
 
+<a href="https://www.codefactor.io/repository/github/aryazakaria01/nekopoiscrapejs"><img src="https://www.codefactor.io/repository/github/aryazakaria01/nekopoiscrapejs/badge" alt="CodeFactor" /></a>
+
 ## Installation
 
 ```sh
